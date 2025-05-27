@@ -107,12 +107,12 @@ Você pode me encontrar por aqui:
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://github-readme-stats.vercel.app/api?username=LuizOFMS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOFMS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
