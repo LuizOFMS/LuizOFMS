@@ -40,7 +40,7 @@ e OUTROS
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -48,7 +48,7 @@ e OUTROS
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
@@ -56,23 +56,17 @@ e OUTROS
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JSON" 
-    title="JSON"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/303251/json-logo.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="React" 
     title="React (em estudo)" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
