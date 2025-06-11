@@ -16,6 +16,34 @@ Estou estudando todos os dias para me tornar um programador full stack e buscar 
 - Site de Receitas com Cards (CRUD)
 e OUTROS
 ---
+# 👨🏻‍💻 Luiz Otávio Fortes
+
+**Aspiring Full-Stack Developer**
+
+Hello! I'm Luiz Otávio from Brazil. I'm currently focused on web development, learning HTML, CSS, JavaScript, and PHP. I have solid experience with logic, DOM manipulation, localStorage, and JSON.
+
+I have built complete projects like To-Do List, Login System, Recipe Website with Cards, and Task Manager.
+
+## 🚀 Projects
+- ✅ **Task Manager (CRUD, PHP + Bootstrap)**
+- ✅ **Recipe Website (CRUD)**
+- ✅ **Login System (with LocalStorage and MySQL)**
+- ✅ **JSON Practice Projects**
+- ✅ **To-Do List (CRUD, React version coming soon)**
+
+## 🛠️ Technologies
+- HTML • CSS • JavaScript • PHP • React.js (learning) • Git • Bootstrap
+
+## 🎯 Current Goals
+- Master React.js and build a project with reusable components
+- Build full CRUD apps with PHP and MySQL
+- Improve responsive web design using CSS and Bootstrap
+
+## 📫 Contact
+- 📧 **Email:** luiztavinho2002@hotmail.com
+- 💼 **GitHub:** [LuizOFMS](https://github.com/LuizOFMS)
+
+
 
 ### 🛠️ Linguagens e Tecnologias
 
